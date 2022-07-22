@@ -1,139 +1,406 @@
-{
-  "Male": {
-    "10&Under": {
-      "50": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "100": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "200": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "400": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "500": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      }
-    },
-    "11-12": {
-      "50": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "100": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "200": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "400": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "500": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      }
-    },
-    "13-14": {
-      "50": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "100": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "200": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "400": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "500": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      }
-    },
-    "15-16": {
-      "50": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "100": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "200": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "400": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "500": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      }
-    },
-    "17-18": {
-      "50": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "100": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "200": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "400": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      },
-      "500": {
-        "SCY": {},
-        "SCM": {},
-        "LCM": {}
-      }
-    }
-  }
-}
+Male
+  10&Under
+    50
+      SCY
+        Freestyle = 27.39* 28.59* 29.79* 30.99* 34.49* 38.09*
+        Backstroke = 31.79* 33.59* 35.29* 37.09* 42.39* 47.69* 
+        Breaststroke = 35.49* 37.29* 39.19* 40.99* 46.59* 52.09
+        Freestyle = 30.29* 31.99* 33.69* 35.39* 40.49* 45.69*
+      SCM
+        Freestyle = 30.29* 31.59* 32.89* 34.19* 38.09* 41.99*
+        Backstroke = 
+        Breaststroke = 
+        Freestyle = 
+      LCM
+        Freestyle = 
+        Backstroke = 
+        Breaststroke = 
+        Freestyle = 
+    100
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    200
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    400
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    500
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+  11-12
+    50
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    100
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    200
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    400
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    500
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+  13-14
+    50
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    100
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    200
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    400
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    500
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+  15-16
+    50
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    100
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    200
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    400
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    500
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+  17-18
+    50
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    100
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    200
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    400
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+    500
+      SCY
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      SCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
+      LCM
+        Freestyle
+        Backstroke
+        Breaststroke
+        Freestyle
