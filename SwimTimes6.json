@@ -72,6 +72,28 @@
         }
       }
     }
+    "11-12": {
+      "50": {
+        "SCY": {
+          "Freestyle":
+          "Backstroke":
+          "Breaststroke":
+          "Butterfly":
+        },
+        "SCM":
+          "Freestyle":
+          "Backstroke":
+          "Breaststroke":
+          "Butterfly":
+        },
+        "LCM": {
+          "Freestyle":
+          "Backstroke":
+          "Breaststroke":
+          "Butterfly":
+        }
+      }
+    }
   }
 }
 ]
